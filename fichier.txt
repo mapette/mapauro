@@ -1,1 +1,2 @@
 {\rtf1}
+Ceci est un conflit conflictuel.
